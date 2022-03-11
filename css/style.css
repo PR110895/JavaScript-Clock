@@ -9,7 +9,7 @@
   /* border: 2px solid red; */
   height: 40vw;
   width: 40vw;
-  background: url(./img/clock1.png) no-repeat;
+  background: url(../img/clock1.png) no-repeat;
   background-size: 100%;
   margin: auto;
 }
